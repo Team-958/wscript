@@ -1,0 +1,7 @@
+#git commands
+
+git status                     | file status
+git add index.html             | add file
+git commit -m "add index.html" | saving added files
+git push                       | deploying
+git pull                       | downloading all files
