@@ -3,5 +3,9 @@
 git status                     | file status
 git add index.html             | add file
 git commit -m "add index.html" | saving added files
+
+git remote add index.html https://github.com/....
+git push https://github.com/...
+
 git push                       | deploying
 git pull                       | downloading all files
